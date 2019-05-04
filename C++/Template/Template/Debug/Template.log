@@ -1,0 +1,5 @@
+﻿  Template.cpp
+e:\c++\template\template\template.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\c++\template\template\template.cpp(62): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Template.vcxproj -> E:\C++\Template\Debug\Template.exe
+  Template.vcxproj -> E:\C++\Template\Debug\Template.pdb (Partial PDB)

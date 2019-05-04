@@ -1,0 +1,4 @@
+﻿  StandardIO.cpp
+e:\c++\standardio\standardio\standardio.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  StandardIO.vcxproj -> E:\C++\StandardIO\Debug\StandardIO.exe
+  StandardIO.vcxproj -> E:\C++\StandardIO\Debug\StandardIO.pdb (Partial PDB)

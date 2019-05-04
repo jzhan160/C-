@@ -1,0 +1,1 @@
+devenv E:\C++\C++Basics\C++Basics.sln /Build "Debug|Win32"  
